@@ -15,6 +15,7 @@ I thought  of designing a portfolio generator.  I opted for a combination of pyt
 - Versatility: Offers rich ecosystem of frameworks and libraries
 - Readability: Scripts are easy to understand
 - Community support: Easy to seek help from fellow developers
+- It shortens codes which could be written with various lines of code to fewer lines of code
 
 ### WHY JINJA2 AS THE TEMPLATING ENGINE?
 
